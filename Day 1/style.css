@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+.labtitle{
+    color:white;
+    background-color: royalblue;
+    padding: 5px;
+}
+
+.lablink{
+    padding: 10px;
+}
+
+table{
+    width: 830px;
+    margin: auto;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    background-color: gray;
+}
+
+section{
+    margin-top: 15px;
+}
